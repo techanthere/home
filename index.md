@@ -1,6 +1,4 @@
-## Welcome to My Frontend Projects Site
-
-### List of Projects Taken from <a href="https://www.frontendmentor.io/challenges" target="_blank">Frontend Mentor</a> Challenges
+## List of Projects Taken from <a href="https://www.frontendmentor.io/challenges" target="_blank">Frontend Mentor</a> Challenges
 
 1.  #### Accordion Challenge
     
