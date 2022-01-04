@@ -1,6 +1,6 @@
 ## Welcome to My Frontend Projects Site
 
-### List of Projects Taken from [Frontend Mentor Challenges](https://www.frontendmentor.io/challenges)
+### List of Projects Taken from <a href="https://www.frontendmentor.io/challenges" target="_blank">Frontend Mentor</a> Challenges
 
 1.  #### Accordion Challenge
     
@@ -12,24 +12,24 @@
     
 3.  #### Preview Card
 
-    [Solution Page](https://techanthere.github.io/preview-card)
+    <a href="https://techanthere.github.io/preview-card" target="_blank">Solution Page</a>
 
 4.  #### Landing Page 
   
-    [Solution Page](https://techanthere.github.io/landing-page)
+    <a href="https://techanthere.github.io/landing-page" target="_blank">Solution Page</a>
 
 5.  #### HTML Order Summary Card
 
-    [Solution Page](https://techanthere.github.io/html-order-summary-card)
+    <a href="https://techanthere.github.io/order-summary-card" target="_blank">Solution Page</a>
 
 6.  #### Profile Card
 
-    [Solution Page](https://techanthere.github.io/profile-card)
+    <a href="https://techanthere.github.io/profile-card" target="_blank">Solution Page</a>
 
 7.  #### Single Price Grid Component
 
-    [Solution Page](https://techanthere.github.io/single-price-grid-component)
+    <a href="https://techanthere.github.io/price-grid-component" target="_blank">Solution Page</a>
 
 8.  ##### Article Preview
 
-    [Solution Page](https://techanthere.github.io/article-preview)
+    <a href="https://techanthere.github.io/article-preview" target="_blank">Solution Page</a>
