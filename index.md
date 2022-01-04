@@ -8,7 +8,7 @@
 
 2.  #### Four Card Component
 
-    [Go to Solution](https://techanthere.github.io/four-card-component)
+    <a target="_blank">[Go to Solution](https://techanthere.github.io/four-card-component)</a>
     
 3.  #### Preview Card
 
