@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: Tech Ant Projects Site
 description: Bookmark this to keep an eye on my project updates!
+relative_permalinks: false
